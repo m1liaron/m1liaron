@@ -1,4 +1,5 @@
 # Hi there 👋
+## <img src="/photo_2024-04-13_23-04-04.jpg">
 ## I am Ukranian Frontend Developer
 ### Languages and Tools 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
