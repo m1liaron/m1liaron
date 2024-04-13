@@ -1,6 +1,21 @@
 # Hi there 👋
 ## <img src="/photo_2024-04-13_23-04-04.jpg">
 ## I am Ukranian Frontend Developer
+<h1 align="center">Hi 👋, I'm Matveichenko Vladislav</h1>
+<h3 align="center">A passionate frontend developer from Ukraine</h3>
+
+- 🌱 I’m currently learning **react, react-native, node.js**
+
+- 👨‍💻 All of my projects are available at [https://github.com/m1liaron?tab=repositories](https://github.com/m1liaron?tab=repositories)
+
+- 💬 Ask me about **react, react-native, node.js**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/m1liaron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="m1liaron" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/m1liaron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m1liaron" height="30" width="40" /></a>
+</p>
+
 ### Languages and Tools 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
