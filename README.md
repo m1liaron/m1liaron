@@ -30,7 +30,7 @@
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/Mongodb-6DA55F?style=for-the-badge&logo=Mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-6DA55F?style=for-the-badge&logo=Firebase&logoColor=orange)
+![Firebase](https://img.shields.io/badge/Firebase-ff8000?style=for-the-badge&logo=Firebase&logoColor=orange)
 ![Postman](https://img.shields.io/badge/postman-ff6600?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
