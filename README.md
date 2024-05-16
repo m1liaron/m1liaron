@@ -2,7 +2,6 @@
 
 ## <a href="https://standwithukraine.com.ua/"><img src="/photo_2024-04-13_23-04-04.jpg"></a>
 ###
-<img align="right" height="150" src="https://wallpapers-clan.com/wp-content/uploads/2022/12/hunter-%C3%97-hunter-killua-gif-pfp-1.gif"  />
 
 
 ## 🌐 Socials:
