@@ -3,6 +3,8 @@
 ## <a href="https://standwithukraine.com.ua/"><img src="/photo_2024-04-13_23-04-04.jpg"></a>
 ###
 
+## Currently working on...
+#### Developing useful applications😇👨🏻‍💻(wait for it, you will see them)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matveichenko-vladislav-71192a303)
