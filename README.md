@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vlad and I'm a frontend developer, from **Ukraine!**</h2>
+<h2 align="left">Hi 👋! My name is Vlad and I'm a Fullstack Software Engineer, from **Ukraine!**</h2>
 
 ## <a href="https://standwithukraine.com.ua/"><img src="/photo_2024-04-13_23-04-04.jpg"></a>
 ###
